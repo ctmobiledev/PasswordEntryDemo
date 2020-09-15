@@ -1,0 +1,310 @@
+C:\Xamarin_Projects\UserDatabase\UserDatabase\bin\Debug\UserDatabase.dll
+C:\Xamarin_Projects\UserDatabase\UserDatabase\bin\Debug\UserDatabase.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\bin\Debug\UserDatabase.UserDatabase.apk
+C:\Xamarin_Projects\UserDatabase\UserDatabase\bin\Debug\UserDatabase.UserDatabase-Signed.apk
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\UserDatabase.nuget.stamp
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\libraryimports.cache.stamp
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res.flag
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\UserDatabase.csproj.CoreCompileInputs.cache
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\UserDatabase.dll
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\UserDatabase.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\android\bin\UserDatabase.UserDatabase.apk
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\layout\activity_main.xml
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\values\colors.xml
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\values\dimens.xml
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\values\strings.xml
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\values\styles.xml
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\menu\menu_main.xml
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\drawable\plus_svg.xml
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\layout\list_item.xml
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\drawable\splash_screen.xml
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\drawable\spectrumlogo.png
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\layout\userentry1.xml
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\drawable\spectrumicon.png
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\drawable\spectrumsplash.png
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\res\layout\more_screen.xml
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\R.cs.flag
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\R.txt
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\uploadflags.txt
+C:\Xamarin_Projects\UserDatabase\UserDatabase\bin\Debug\Mono.Android.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\bin\Debug\mscorlib.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\bin\Debug\System.Core.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\bin\Debug\System.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\bin\Debug\System.Xml.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\bin\Debug\System.Net.Http.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\bin\Debug\System.Runtime.Serialization.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\bin\Debug\Mono.Security.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\linksrc\System.Core.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\linksrc\System.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\linksrc\UserDatabase.dll.mdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\bin\Debug\UserDatabase.dll.mdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\android\assets\UserDatabase.dll.mdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\android\assets\System.Core.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\android\assets\System.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Xamarin_Projects\UserDatabase\UserDatabase\obj\Debug\81\android\assets\System.Xml.pdb
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\bin\Debug\UserDatabase.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\bin\Debug\UserDatabase.pdb
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\bin\Debug\UserDatabase.UserDatabase.apk
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\bin\Debug\UserDatabase.UserDatabase.aab
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\bin\Debug\UserDatabase.UserDatabase-Signed.aab
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\bin\Debug\UserDatabase.UserDatabase-Signed.apk
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\bin\Debug\UserDatabase.UserDatabase-Signed.apk.idsig
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\bin\Debug\UserDatabase.dll.mdb
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\build.props
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\adb.props
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\UserDatabase.csprojAssemblyReference.cache
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\stamp\_BuildLibraryImportsCache.stamp
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res.flag
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\R.txt
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\R.cs.flag
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\UserDatabase.csproj.CoreCompileInputs.cache
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\UserDatabase.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\UserDatabase.pdb
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\bin\UserDatabase.UserDatabase.apk
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\bin\base.zip
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\bin\UserDatabase.UserDatabase.aab
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\bin\UserDatabase.UserDatabase.apks
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\layout\activity_main.xml
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\values\colors.xml
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\values\dimens.xml
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\values\strings.xml
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\values\styles.xml
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\menu\menu_main.xml
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\drawable\plus_svg.xml
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\layout\list_item.xml
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\drawable\splash_screen.xml
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\layout\userentry1.xml
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\layout\more_screen.xml
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\uploadflags.txt
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\resolvedassemblies.hash
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Java.Interop.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Mono.Android.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Mono.Security.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\mscorlib.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\SQLite-net.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\SQLitePCLRaw.batteries_green.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\SQLitePCLRaw.core.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Collections.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.ComponentModel.Composition.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Core.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Core.pdb
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Diagnostics.Debug.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Drawing.Common.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Drawing.Common.pdb
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Globalization.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Linq.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Linq.Expressions.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Net.Http.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Numerics.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Numerics.pdb
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.pdb
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Reflection.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Reflection.Extensions.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Runtime.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Runtime.Extensions.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Threading.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Threading.Tasks.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Xml.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\System.Xml.pdb
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\UserDatabase.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\UserDatabase.dll.mdb
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Xamarin.Android.Support.Design.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Xamarin.Android.Support.v4.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\typemaps.arm64-v8a.s
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\typemaps.armeabi-v7a.s
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\typemaps.x86.s
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\typemaps.x86_64.s
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\typemaps.armeabi-v7a-shared.inc
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\typemaps.shared.inc
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\AndroidManifest.xml
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\__environment__.txt
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\MonoRuntimeProvider.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\assets\machine.config
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\bin\mono.android.jar
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\static.flag
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\buildid.txt
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\environment.arm64-v8a.s
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\environment.armeabi-v7a.s
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\environment.x86.s
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\environment.x86_64.s
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\android\support\compat\R.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\android\support\design\R.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\android\support\mediacompat\R.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\android\support\transition\R.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\android\support\v7\appcompat\R.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\android\support\v7\recyclerview\R.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\crc64f394de378177f93d\ListViewAdapter.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\crc64f394de378177f93d\MainActivity.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\crc64f394de378177f93d\MoreActivity.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\crc64f394de378177f93d\SplashActivity.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\crc64f394de378177f93d\UserEntryActivity.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\crc64f394de378177f93d\ViewHolder.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\app\ApplicationRegistration.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\design\widget\TabLayout_OnTabSelectedListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\mono\MonoPackageManager_Resources.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\bin\packaged_resources
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\src\userdatabase\userdatabase\R.java
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\compressed_assemblies.arm64-v8a.s
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\compressed_assemblies.armeabi-v7a.s
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\compressed_assemblies.x86.s
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\compressed_assemblies.x86_64.s
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\typemaps.arm64-v8a.o
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\typemaps.armeabi-v7a.o
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\typemaps.x86.o
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\typemaps.x86_64.o
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\environment.arm64-v8a.o
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\environment.armeabi-v7a.o
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\environment.x86.o
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\environment.x86_64.o
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\compressed_assemblies.arm64-v8a.o
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\compressed_assemblies.armeabi-v7a.o
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\compressed_assemblies.x86.o
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\compressed_assemblies.x86_64.o
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\app_shared_libraries\x86\libxamarin-app.so
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\android\bin\classes.dex
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\stamp\_CompileToDalvik.stamp
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\stamp\_ConvertCustomView.stamp
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\stamp\_ConvertResourcesCases.stamp
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\stamp\_GenerateJavaStubs.stamp
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\stamp\_ResolveLibraryProjectImports.stamp
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\drawable\demologo.png
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\drawable\demoicon.png
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Debug\81\res\drawable\demosplash.png

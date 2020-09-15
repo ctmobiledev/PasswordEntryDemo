@@ -1,0 +1,6 @@
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Release\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Release\90\build.props
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Release\90\adb.props
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Release\90\UserDatabase.csprojAssemblyReference.cache
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Release\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Code Challenges (Previous)\Xamarin (Spectrum-Charter)\UserDatabase\obj\Release\90\res.flag
